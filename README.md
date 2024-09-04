@@ -90,14 +90,3 @@ npm start
 
 The application will listen on port 9000 by default.
 
-## Contributing
-
-If you would like to contribute to this project, please submit a pull request or open an issue.
-
-## License
-
-This project is licensed under the ISC License. See the `LICENSE` file for more details.
-
----
-
-Feel free to modify the details according to your specific needs!
