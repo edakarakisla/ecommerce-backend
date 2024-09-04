@@ -1,4 +1,3 @@
-Certainly! Here's the README file in English with the contact section removed:
 
 ---
 
